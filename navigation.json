@@ -9,14 +9,14 @@
         "type": "group",
         "children": [
           {
-            "label": "Installation",
-            "type": "page",
-            "path": "docs/getting-started/installation.mdx"
-          },
-          {
             "label": "Project Structure",
             "type": "page",
             "path": "docs/getting-started/project-structure.mdx"
+          },
+          {
+            "label": "Installation",
+            "type": "page",
+            "path": "docs/getting-started/installation.mdx"
           },
           {
             "label": "Deploying",
