@@ -1,0 +1,68 @@
+[
+  {
+    "label": "Docs",
+    "type": "tab",
+    "path": "docs",
+    "children": [
+      {
+        "label": "Getting Started",
+        "type": "group",
+        "children": [
+          {
+            "label": "Installation",
+            "type": "page",
+            "path": "docs/getting-started/installation.mdx"
+          },
+          {
+            "label": "Project Structure",
+            "type": "page",
+            "path": "docs/getting-started/project-structure.mdx"
+          },
+          {
+            "label": "Deploying",
+            "type": "page",
+            "path": "docs/getting-started/deploying.mdx"
+          }
+        ]
+      },
+      {
+        "label": "API Reference",
+        "type": "group",
+        "children": [
+          {
+            "label": "Configuration",
+            "type": "folder",
+            "children": [
+              {
+                "label": "JavaScript",
+                "type": "page",
+                "path": "docs/api-reference/configuration/javascript.mdx"
+              },
+              {
+                "label": "TypeScript",
+                "type": "page",
+                "path": "docs/api-reference/configuration/typescript.mdx"
+              }
+            ]
+          },
+          {
+            "label": "Functions",
+            "type": "folder",
+            "children": [
+              {
+                "label": "Generate",
+                "type": "page",
+                "path": "docs/api-reference/functions/generate.mdx"
+              },
+              {
+                "label": "Parse",
+                "type": "page",
+                "path": "docs/api-reference/functions/parse.mdx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
