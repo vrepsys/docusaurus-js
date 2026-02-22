@@ -9,6 +9,11 @@
         "type": "group",
         "children": [
           {
+            "label": "Intro",
+            "type": "page",
+            "path": "docs/intro.md"
+          },
+          {
             "label": "Project Structure",
             "type": "page",
             "path": "docs/getting-started/project-structure.mdx"
