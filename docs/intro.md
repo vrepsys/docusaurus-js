@@ -6,7 +6,10 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-![](./tutorial-extras/img/docsVersionDropdown.png)
+<img
+  src={require("./tutorial-extras/img/docsVersionDropdown.png").default}
+  style={{width: '300px', height: '200px'}}
+/>
 
 ## Getting Started
 
